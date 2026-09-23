@@ -74,5 +74,8 @@ sentiment-analysis-game/
 ├── notebooks/
 │   ├── game_sentiment_analysis.ipynb
 │   └── transformer_sa.ipynb
+├──data/
+│   ├── train.csv
+│   ├── test.csv
 │
 └── README.md
